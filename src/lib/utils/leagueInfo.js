@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2018, this league full of degenerates continue to baffle me with their complete lack of football knowledge and general tomfoolery. A close knit group of people that have changed like 50 times.</p>
+  <p>Founded in 2018, this league full of degenerates continue to baffle me with their complete lack of football knowledge and general tomfoolery. A close knit group of people that have changed like 50 times already.</p>
   
 `;
 
